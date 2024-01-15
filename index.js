@@ -1,8 +1,11 @@
-const divide = (a,b) => (a / b);
-divide(2000,100);
+const divide = (a, b) => (a / b)
+divide(2000,100) // divides 2000 and 100
 
-const square = x => x**2; 
-square(2);
 
-const add = (x,y) => (x + y); 
-add(3,4);
+const square = a => (a * a)
+square(2)
+
+
+const add = (a,b) => (a + b)
+add(3,4)
+
